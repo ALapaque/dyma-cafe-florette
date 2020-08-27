@@ -4,10 +4,6 @@
 
 <img src="preview/desktop.png">
 
-# PREVIEW TABLET
-
-<img src="preview/tablet.png">
-
 
 # PREVIEW Iphone X
 
